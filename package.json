@@ -1,0 +1,28 @@
+{
+  "name": "jblab-ingress-glyphs",
+  "description": "Pursue knowledge",
+  "version": "0.0.0",
+  "style": "dist/css/jblab-ingress-glyphs.css",
+  "sass": "sass/jblab-ingress-glyphs.scss",
+  "keywords": ["font", "ingress", "glyphs", "icon"],
+  "homepage": "http://jblab.info/",
+  "bugs": {
+    "url" : "http://github.com/jblab/Ingress-Glyphs/issues"
+  },
+  "author": {
+    "name": "Julien Bonnier",
+    "email": "julien@jblab.info",
+    "web": "http://twitter.com/jblab_1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jblab/Ingress-Glyphs.git"
+  },
+  "contributors": [],
+  "license": "(OFL-1.1 AND MIT)",
+  "dependencies": {
+  },
+  "engines" : {
+    "node" : ">=0.10.3"
+  }
+}
