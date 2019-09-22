@@ -33,7 +33,7 @@ And constructed with the following guidelines:
 For more information on SemVer, please visit http://semver.org.
 
 ## Author
-- Email: julien@jblab.info
+- Email: dev.jblab@gmail.com
 - Twitter: http://twitter.com/jblab_1
 - GitHub: https://github.com/jblab
 
