@@ -1,4 +1,4 @@
-# [Jblab Ingress Glyphs v0.0.0](https://jblab.info)
+# [Jblab Ingress Glyphs](https://jblab.info)
 ### Pursue knowledge
 
 Jblab Ingress Glyphs is a full suite of 162 pictographic icons for easy scalable vector graphics on websites,
@@ -15,6 +15,7 @@ Stay up to date with the latest release and announcements on Twitter:
   - http://creativecommons.org/licenses/by/3.0/
 
 ## Changelog
+- v0.1.0 - Adding compile options for sass
 - v0.0.0 - initial version
 
 ## Versioning
