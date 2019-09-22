@@ -21,5 +21,14 @@
   "dependencies": {},
   "engines": {
     "node": ">=0.10.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node-sass sass/jblab-ingress-glyphs.scss css/jblab-ingress-glyphs.css",
+    "compile-min": "node-sass sass/jblab-ingress-glyphs.scss css/jblab-ingress-glyphs.min.css --output-style compressed",
+    "build": "npm run compile && npm run compile-min"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0"
   }
 }
