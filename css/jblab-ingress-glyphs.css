@@ -555,25 +555,37 @@
 
 @font-face {
   font-family: "Ingress Glyphs";
-  src: url("../fonts/jblab-ingress-glyphs.ttf") format("truetype");
+  src: url("../fonts/jblab-ingress-glyphs.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/jblab-ingress-glyphs.eot?#iefix") format("embedded-opentype"), url("../fonts/jblab-ingress-glyphs.otf") format("opentype"), url("../fonts/jblab-ingress-glyphs.svg") format("svg"), url("../fonts/jblab-ingress-glyphs.ttf") format("truetype"), url("../fonts/jblab-ingress-glyphs.woff") format("woff"), url("../fonts/jblab-ingress-glyphs.woff2") format("woff2");
+  /* Modern Browsers */
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "Ingress Glyphs Light";
-  src: url("../fonts/jblab-ingress-glyphs.light.ttf") format("truetype");
+  src: url("../fonts/jblab-ingress-glyphs.light.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/jblab-ingress-glyphs.light.eot?#iefix") format("embedded-opentype"), url("../fonts/jblab-ingress-glyphs.light.otf") format("opentype"), url("../fonts/jblab-ingress-glyphs.light.svg") format("svg"), url("../fonts/jblab-ingress-glyphs.light.ttf") format("truetype"), url("../fonts/jblab-ingress-glyphs.light.woff") format("woff"), url("../fonts/jblab-ingress-glyphs.light.woff2") format("woff2");
+  /* Modern Browsers */
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "Ingress Glyphs Bold";
-  src: url("../fonts/jblab-ingress-glyphs.bold.ttf") format("truetype");
+  src: url("../fonts/jblab-ingress-glyphs.bold.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/jblab-ingress-glyphs.bold.eot?#iefix") format("embedded-opentype"), url("../fonts/jblab-ingress-glyphs.bold.otf") format("opentype"), url("../fonts/jblab-ingress-glyphs.bold.svg") format("svg"), url("../fonts/jblab-ingress-glyphs.bold.ttf") format("truetype"), url("../fonts/jblab-ingress-glyphs.bold.woff") format("woff"), url("../fonts/jblab-ingress-glyphs.bold.woff2") format("woff2");
+  /* Modern Browsers */
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "Ingress Glyphs Extra Bold";
-  src: url("../fonts/jblab-ingress-glyphs.extra-bold.ttf") format("truetype");
+  src: url("../fonts/jblab-ingress-glyphs.extra-bold.eot");
+  /* IE9 Compat Modes */
+  src: url("../fonts/jblab-ingress-glyphs.extra-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/jblab-ingress-glyphs.extra-bold.otf") format("opentype"), url("../fonts/jblab-ingress-glyphs.extra-bold.svg") format("svg"), url("../fonts/jblab-ingress-glyphs.extra-bold.ttf") format("truetype"), url("../fonts/jblab-ingress-glyphs.extra-bold.woff") format("woff"), url("../fonts/jblab-ingress-glyphs.extra-bold.woff2") format("woff2");
+  /* Modern Browsers */
   font-weight: normal;
   font-style: normal; }
 
@@ -591,7 +603,7 @@
 
 [class^="ig-"].light,
 [class*="ig-"].light {
-  font-family: "Ingress Glyphs Ligth";
+  font-family: "Ingress Glyphs Light";
   speak: none;
   font-style: normal;
   font-weight: normal;
