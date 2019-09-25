@@ -15,6 +15,7 @@ Stay up to date with the latest release and announcements on Twitter:
   - http://creativecommons.org/licenses/by/3.0/
 
 ## Changelog
+- v0.2.0 - Adding fonts formats, fixing typo in Light font name
 - v0.1.0 - Adding compile options for sass
 - v0.0.0 - initial version
 

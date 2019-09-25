@@ -1,7 +1,7 @@
 {
   "name": "jblab-ingress-glyphs",
   "description": "Pursue knowledge",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "style": "dist/css/jblab-ingress-glyphs.css",
   "sass": "sass/jblab-ingress-glyphs.scss",
   "keywords": [
